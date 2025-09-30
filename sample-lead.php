@@ -6,7 +6,7 @@ $url = "http://api.agilize.app/crm/lead/lead";
 // Dados a serem enviados (em formato JSON)
 $data = [
     "name" => "Nome lead",
-    // "tags" => ["68141cd4da5bfc9d9c85b20f"],
+    // "tags" => ["TAG_ID"],
     "phones" => [
         ["phone" => "+551143214321"]
     ],
